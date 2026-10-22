@@ -1,5 +1,6 @@
 # QRSHIELD: End-to-End Engineering Architecture Report
 
+pitch deck :https://drive.google.com/drive/folders/1kpNikHIeZ6KZzFIIcdepjJkTgn7vVq8c?usp=drive_link
 ### Tamper-Proof UPI QR Verification & Multi-Bank Fraud Flags on NPCI DRUNIX
 
 > Built for the **DRUNIX Hackathon 2026 in collaboration with Citi** (India Blockchain Forum, CHL-7007)
